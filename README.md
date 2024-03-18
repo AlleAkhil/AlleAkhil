@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@__mr_candy__" target="blank"><img src="https://img.shields.io/twitter/follow/@__mr_candy__?logo=twitter&style=for-the-badge" alt="@__mr_candy__" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/AlleAkhil/portfolio)
-
 - 🌱 I’m currently learning **DevOPs**
 
 - 💬 Ask me about **MERN Stack**
