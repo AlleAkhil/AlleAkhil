@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1HQe5DafjZVxy4uloBcqXZH76jBJu6u1W/view?usp=drive_link)]
 <h1 align="center">Hi 👋, I'm Akhil Alle</h1>
 <h3 align="center">An enthusiastic full stack developer hailing from India.</h3>
 
