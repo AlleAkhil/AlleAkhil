@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akhilalle3510@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XwjK5MB2LC21nZaBLu9-5TRtQm52aTsk/view?usp=drive_link](https://drive.google.com/file/d/1XwjK5MB2LC21nZaBLu9-5TRtQm52aTsk/view?usp=drive_link)
+- 📄 Know about my experiences [https://akhilalle.vercel.app/](https://akhilalle.vercel.app/)
 
 - ⚡ Fun fact **Programmers' brains are wired to debug both code and real-life situations.**
 
